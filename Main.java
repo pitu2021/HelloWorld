@@ -1,4 +1,4 @@
-class Main {
+class DataTypes {
   public static void main(String[] args) {
     System.out.println("Hello world!");
     byte myNum = 100;
